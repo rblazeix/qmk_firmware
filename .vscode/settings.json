@@ -28,6 +28,11 @@
     "[json]": {
         "editor.formatOnSave": false
     },
+    "[c]": {
+        "editor.formatOnSave": false,
+        "editor.formatOnPaste": false,
+        "editor.formatOnType": false
+    },
     "clangd.arguments": [
         "--header-insertion=never"
     ]
